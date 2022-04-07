@@ -30,3 +30,7 @@ while(True):
 print("\n [INFO] Exiting Program and cleanup stuff")
 cam.release()
 cv2.destroyAllWindows()
+
+
+
+"https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348"
